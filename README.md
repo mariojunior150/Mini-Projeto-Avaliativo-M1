@@ -41,9 +41,9 @@ Qual das versões v1 ou v2 foi escolhida para salvar dentro da pasta \data\final
 
 ## Bibliotecas e suas versões
 
-Pandas: 3.0.3
-NumPy: 2.4.6
-Matplotlib: 3.11.0
-Seaborn: 0.13.2
+Pandas: 3.0.3  
+NumPy: 2.4.6  
+Matplotlib: 3.11.0  
+Seaborn: 0.13.2  
 
 ## Vídeo de demonstração
