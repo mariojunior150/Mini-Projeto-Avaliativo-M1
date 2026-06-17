@@ -17,21 +17,21 @@ Quais clientes são mais valiosos (segmentação simples);
 
 ## Estrutura do projeto
 
-projeto/
-├── data/ 
-│ ├── raw/                      # dados brutos, originais 
-│ ├── processed/ 
-│ │ ├── v1_com_outliers/        # dados com limpeza geral, mas com os outliers mantidos
-│ │ └── v2_outliers_tratado/    # dados com limpeza geral v1 + tratamento de outliers
-│ └── final/                    # Dados que serão usados futuramente em um treinamento de modelo de IA
-│
-├── notebooks/                  # Notebook para análise exploratória
-├── outputs/                    # resultados finais, relatórios, e visualizações
-│ ├── metricas_por_mes.csv      # métricas mensais extraído dos dados
-│ ├── segmentacao_clientes.csv  # segmentação de clientes 
-│ ├── estatisticas_gerais.json  # estatísticas do dataframe
-│ ├── graficos/                 # visualizações para análise 
-├── README.md                   # documentação do projeto, estrutura de pastas e justificativas de decisão
+projeto/  
+├── data/  
+│ ├── raw/                      # dados brutos, originais   
+│ ├── processed/   
+│ │ ├── v1_com_outliers/        # dados com limpeza geral, mas com os outliers mantidos  
+│ │ └── v2_outliers_tratado/    # dados com limpeza geral v1 + tratamento de outliers  
+│ └── final/                    # Dados que serão usados futuramente em um treinamento de modelo de IA  
+│  
+├── notebooks/                  # Notebook para análise exploratória  
+├── outputs/                    # resultados finais, relatórios, e visualizações  
+│ ├── metricas_por_mes.csv      # métricas mensais extraído dos dados  
+│ ├── segmentacao_clientes.csv  # segmentação de clientes  
+│ ├── estatisticas_gerais.json  # estatísticas do dataframe  
+│ ├── graficos/                 # visualizações para análise  
+├── README.md                   # documentação do projeto, estrutura de pastas e justificativas de decisão  
 
 ## Decisão de versão
 
