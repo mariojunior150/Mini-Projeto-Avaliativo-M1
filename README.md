@@ -9,10 +9,10 @@ analisa e visualiza um dataset de vendas, gerando métricas e insights.
 
 ## O que o projeto analisa
 
-Como as vendas se comportam ao longo do tempo (por mês, por trimestre);
-Quais produtos e categorias geram mais receita;
-Quais regiões têm melhor desempenho;
-Quais clientes são mais valiosos (segmentação simples);
+Como as vendas se comportam ao longo do tempo (por mês, por trimestre);  
+Quais produtos e categorias geram mais receita;  
+Quais regiões têm melhor desempenho;  
+Quais clientes são mais valiosos (segmentação simples);  
 
 
 ## Estrutura do projeto
