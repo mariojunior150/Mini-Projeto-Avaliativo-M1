@@ -35,9 +35,15 @@ projeto/
 
 ## Decisão de versão
 
-Qual das versões v1 ou v2 foi escolhida para salvar dentro da pasta \data\final
+Conforme solicitado no RF12 e executado no item 5 do dataview.ipynb foi selecionado o df_v2 (outliers removidos) como base da análise final.
 
 ## Observações
+
+Temos como respostas após a análise:  
+As vendas por mês e por trimestre...    
+Os produtos ... e as categorias ... são as que geram mais receita ...  
+As regiões que apresentaram melhor desempenho foram ...  
+Os clientes mais valiosos (segmentação simples) são ...  
 
 ## Bibliotecas e suas versões
 
