@@ -9,10 +9,10 @@ analisa e visualiza um dataset de vendas, gerando métricas e insights.
 
 ## O que o projeto analisa
 
-Como as vendas se comportam ao longo do tempo (por mês, por trimestre);  
+Como as vendas se comportam ao longo do tempo;  
 Quais produtos e categorias geram mais receita;  
 Quais regiões têm melhor desempenho;  
-Quais clientes são mais valiosos (segmentação simples);  
+Quais clientes são mais valiosos;  
 
 
 ## Estrutura do projeto
@@ -40,10 +40,10 @@ Conforme solicitado no RF12 e executado no item 5 do dataview.ipynb foi selecion
 ## Observações
 
 Temos como respostas após a análise:  
-As vendas por mês e por trimestre...    
-Os produtos ... e as categorias ... são as que geram mais receita ...  
-As regiões que apresentaram melhor desempenho foram ...  
-Os clientes mais valiosos (segmentação simples) são ...  
+As maiores receitas estão concentradas nos meses de janeiro e novembro  
+Os produtos smartphone e notebook e as respectivas categorias celulares e computadores são as que geram mais receita  
+A região que apresenta melhor desempenho pela receita total é a região norte  
+Dos 30 clientes 25 estão na maior categoria (Ouro)
 
 ## Bibliotecas e suas versões
 
